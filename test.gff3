@@ -1,0 +1,23 @@
+##gff-version 3
+#date Tue Feb  8 19:50:12 2011
+#
+# Saccharomyces cerevisiae S288C genome
+#
+# Features from the 16 nuclear chromosomes labeled chrI to chrXVI,
+# plus the mitochondrial genome labeled chrMito and the 2-micron plasmid.
+#
+# Created by Saccharomyces Genome Database (http://www.yeastgenome.org/)
+#
+# Weekly updates of this file are available via Anonymous FTP from:
+# ftp://ftp.yeastgenome.org/yeast/data_download/chromosomal_feature/saccharomyces_cerevisiae.gff
+#
+# Please send comments and suggestions to yeast-curator@yeastgenome.org
+#
+# SGD is funded as a National Human Genome Research Institute Biomedical Informatics Resource from
+# the U. S. National Institutes of Health to Stanford University.  The staff of SGD is listed at:
+# http://www.yeastgenome.org/SGD-staff.html
+#
+chrI	SGD	chromosome	1	230218	.	.	.	ID=chrI;dbxref=NCBI:NC_001133;Name=chrI
+chrI	SGD	repeat_region	1	62	.	-	.	ID=TEL01L-TR;Name=TEL01L-TR;Note=Terminal%20stretch%20of%20telomeric%20repeats%20on%20the%20left%20arm%20of%20Chromosome%20I;dbxref=SGD:S000028864
+chrI	SGD	telomere	1	801	.	-	.	ID=TEL01L;Name=TEL01L;Note=Telomeric%20region%20on%20the%20left%20arm%20of%20Chromosome%20I%3B%20composed%20of%20an%20X%20element%20core%20sequence%2C%20X%20element%20combinatorial%20repeats%2C%20and%20a%20short%20terminal%20stretch%20of%20telomeric%20repeats;dbxref=SGD:S000028862
+chrI	SGD	repeat_region	63	336	.	-	.	ID=TEL01L-XR;Name=TEL01L-XR;Note=Telomeric%20X%20element%20combinatorial%20Repeat%20region%20on%20the%20left%20arm%20of%20Chromosome%20I%3B%20contains%20repeats%20of%20the%20D%2C%20C%2C%20B%20and%20A%20types%2C%20as%20well%20as%20Tbf1p%20binding%20sites%3B%20formerly%20called%20SubTelomeric%20Repeats;dbxref=SGD:S000028866
